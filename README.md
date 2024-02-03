@@ -1,26 +1,32 @@
 # RTL-Projects
 Implementation of some basic and more advanced RTL schemes
 
-This repository encompasses a collection of RTL (Register-Transfer Level) designs and sub-tasks implemented in Verilog, systematically arranged from the simplest to the most intricate. Each design addresses a specific topic or concept within Verilog for RTL design.
+# Verilog RTL Design Repository
 
-The purpose of this repository is to serve as a practical resource for honing Verilog skills or refreshing one's understanding of key concepts. By delving into these designs, users can gain insights into how Verilog is applied in RTL design, offering valuable knowledge that is widely applicable across various projects and extensive designs.
+This repository comprises a set of RTL (Register-Transfer Level) designs and sub-tasks implemented in Verilog. The designs are systematically ranked from the simplest to the most complex, covering various topics and concepts in Verilog for RTL design.
 
-Comprehensive specifications are provided for each design, accompanied by a dedicated testbench to facilitate the functional testing of the implemented module. Throughout the development process, the QuestaSim simulation environment was employed for simulating device operations, while VIVADO was utilized for assessing both RTL and Synthesis designs.
+## Purpose
+The repository serves as a practical resource for Verilog practice or as a refresher for fundamental concepts. Exploring these designs provides valuable insights into the application of Verilog in RTL design, offering knowledge applicable to a wide range of projects and extensive designs.
 
-The covered topics and concepts include:
+## Specifications and Testing
+Each design includes comprehensive specifications, and a dedicated testbench is provided for functional testing of the implemented module. The QuestaSim simulation environment was utilized for simulating device operations, while VIVADO was used for evaluating both RTL and Synthesis designs.
 
-Continuous assignment
-Structural modeling
-Utilization of Parameters for crafting generic code
-Integration of Generate blocks
-Implementation of Procedural blocks
-Behavioral modeling
-Conditional Statements
-Operators
-For loop utilization
-Non-blocking assignment
-Pipelining strategies
-Finite State Machines (FSM)
-Handling Memories
-Testbench creation
-This repository is intended not only for practical Verilog application but also for fostering a deeper understanding of these fundamental concepts, which are instrumental in diverse projects and large-scale designs.
+## Topics and Concepts Covered
+- Continuous assignment
+- Structural modeling
+- Parameter usage for generic code
+- Generate blocks
+- Procedural blocks
+- Behavioral modeling
+- Conditional Statements
+- Operators
+- For loop utilization
+- Non-blocking assignment
+- Pipelining strategies
+- Finite State Machines (FSM)
+- Memory handling
+- Testbench creation
+
+## Conclusion
+This repository is designed not only for practical Verilog application but also to enhance understanding of fundamental concepts crucial for various projects and large-scale designs.
+
