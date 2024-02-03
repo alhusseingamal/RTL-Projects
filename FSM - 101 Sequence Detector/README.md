@@ -10,7 +10,7 @@ In addition to the Moore FSM, this repository provides an alternative implementa
 
 Explore the code within the sub-repository to understand and integrate these implementations, providing flexibility in choosing between Moore and Mealy FSMs for your specific sequence detection needs.
 ## Moore FSM
-![Moore FSM]()
+![Moore FSM](https://github.com/alhusseingamal/RTL-Projects/blob/main/FSM%20-%20101%20Sequence%20Detector/moore-state-machine.png)
 
 ## Mealy FSM
-![Mealy FSM]()
+![Mealy FSM](https://github.com/alhusseingamal/RTL-Projects/blob/main/FSM%20-%20101%20Sequence%20Detector/mealy-state-machine.png)
