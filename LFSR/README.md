@@ -1,11 +1,12 @@
-## Linear Feedback Shift Register (LFSR)
-This repo implements a generic n-bit LFSR.  
-LFSRs are used in many applications:
-  - Pseudorandom number generation
-  - Error Detection and Correction
-  - Counters
+# Linear Feedback Shift Register (LFSR)
 
-LFSRs are cheap to implement and fast enough for many applications.
+## This repo implements a generic n-bit LFSR.  
+### LFSRs are used in many applications:
+  #### - Pseudorandom number generation
+  #### - Error Detection and Correction
+  #### - Counters
 
-## Circuit and Truth Table
-![Diagram]()
+### LFSRs are cheap to implement and fast enough for many applications.
+
+## Circuit and Truth Table for a 3-bit LFSR
+![Diagram](https://github.com/alhusseingamal/RTL-Projects/blob/main/LFSR/LFSR%20diagram%20and%20Truth%20Table.jpg)
