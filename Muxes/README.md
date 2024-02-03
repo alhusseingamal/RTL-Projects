@@ -1,1 +1,1 @@
-## Implementation of generic 2x1 and 4x1 n-bit Muxes. A testbench is provided.
+## Implementation of generic 2x1 and 4x1 n-bit Muxes, in addition to a generic 1-bit Mux. A testbench is provided.
