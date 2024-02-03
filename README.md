@@ -3,13 +3,15 @@ Implementation of some basic and more advanced RTL schemes
 
 # Verilog RTL Design Repository
 
-This repository comprises a set of RTL (Register-Transfer Level) designs and sub-tasks implemented in Verilog. The designs are systematically ranked from the simplest to the most complex, covering various topics and concepts in Verilog for RTL design.
+This repository comprises a set of RTL (Register-Transfer Level) designs and sub-tasks implemented in Verilog. The designs cover various topics and concepts in Verilog for RTL design.
 
 ## Purpose
 The repository serves as a practical resource for Verilog practice or as a refresher for fundamental concepts. Exploring these designs provides valuable insights into the application of Verilog in RTL design, offering knowledge applicable to a wide range of projects and extensive designs.
 
 ## Specifications and Testing
-Each design includes comprehensive specifications, and a dedicated testbench is provided for functional testing of the implemented module. The QuestaSim simulation environment was utilized for simulating device operations, while VIVADO was used for evaluating both RTL and Synthesis designs.
+Each complex design includes comprehensive specifications.  
+Testbenches are provided for functional testing of complex modules.  
+Both QuestaSim and VIVADO environments were used for RTL coding and synthesis.  
 
 ## Topics and Concepts Covered
 - Continuous assignment
