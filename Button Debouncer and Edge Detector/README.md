@@ -9,7 +9,7 @@ The Button Debouncer module implements a waiting mechanism to capture the a debo
 The Edge Detection module is designed to identify rising and falling edges within signals, a crucial component in signal processing applications.
 
 ## Debouncing Diagram
-![Button Debouncing]()
+![Button Debouncing](https://github.com/alhusseingamal/RTL-Projects/blob/main/Button%20Debouncer%20and%20Edge%20Detector/button%20-%20debouncing.PNG)
 
 ## Edge Detection FSM
 ![Button Debouncing]()
