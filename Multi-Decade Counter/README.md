@@ -6,6 +6,6 @@ The counter is designed to handle counting across multiple decades, providing a 
 ## Features:
 - **BCD Counter Module:** The implementation leverages a BCD counter module for efficient and accurate counting.
 - **Multi-Decade Capability:** The counter can seamlessly traverse multiple decades, accommodating a wide range of counting scenarios.
-- **Testbench1:** A comprehensive testbench is included to ensure the functionality and reliability of the multi-decade counter in various scenarios.
-- **Testbench2:** An additional testbench that tests a cascade og two multi-decade counters is implemented also.
+- **1st Testbench:** A comprehensive testbench is included to ensure the functionality and reliability of the multi-decade counter in various scenarios.
+- **2nd Testbench:** An additional testbench that tests a cascade of two multiple decade counters is implemented. This can count up to 999,9999.    
 Integrate this multi-Decade counter into your projects for robust and scalable counting operations.
